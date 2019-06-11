@@ -1,0 +1,6 @@
+npm install webpack-cli --save-dev
+npm install webpack-dev-server --save-dev
+npm install babel-core babel-preset-env babel-loader --save-dev
+npm install babel-polyfill --save
+npm install babel-loader@7 --save-dev
+
